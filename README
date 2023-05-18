@@ -43,7 +43,7 @@ The following features are currently being developed:
 
 To run the Sustainable E-Commerce Application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/shirinrahmani90/Sustainable-E-commerce.git`
+1. Clone the repository: `git clone https://github.com/shirinrahmani90/Sustainable-E-commerce`
 2. Install the necessary dependencies: `pip install -r requirements.txt`
 3. Set up the database by running migrations: `python manage.py migrate`
 4. Start the development server: `python manage.py runserver`
